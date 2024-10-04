@@ -17,4 +17,4 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard/dashboard.py
 ```
-## atau bisa dengan kunjungi website ini [analisisdatapython](https://inc0878-analisisdatapython-bike-dashboard-nsgjfa.streamlit.app/)
+## atau bisa dengan kunjungi website ini [analisisdatapython](https://inc0878-analisisdatapython-bike-dashboarddashboard-nsgjfa.streamlit.app/)
